@@ -1,1 +1,1 @@
-This is a simple Hangman game created using python. It uses the tkinter and random module.Enjoy the game!
+This is a simple Hangman game implemented in Python using the Tkinter library for the graphical user interface and the random module to select words. The objective of the game is to guess the word before the hangman is fully drawn.
