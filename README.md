@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman Game CodeAlpha Task 2
 
 A simple Hangman game implemented in Python using Tkinter and the random module.
 
